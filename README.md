@@ -189,16 +189,19 @@ Black Pepper: Retail ₹83,601/MT vs. MSP ₹38,197 — **farmer receives only 4
 
 ## 📸 Dashboard Screenshots
 
-> *(Add screenshots of each dashboard page here after export from Power BI)*
 
-| Page | Preview |
-|---|---|
-| Cold Chain Analysis | *(screenshot)* |
-| Crop & Stage Breakdown | *(screenshot)* |
-| Warehouse Infrastructure | *(screenshot)* |
-| Transport Analysis | *(screenshot)* |
-| Market Prices | *(screenshot)* |
-| Intervention Effectiveness | *(screenshot)* |
+| Cold Chain Analysis | *<img width="1315" height="738" alt="page1_cold_chain" src="https://github.com/user-attachments/assets/0b43ee56-ff7c-4aa9-85b7-414bf0897635" />
+* | 
+| Crop & Stage Breakdown | *<img width="1312" height="740" alt="page2_crops_stages" src="https://github.com/user-attachments/assets/21c3fd1e-7b16-4e2d-bf36-74014d50b087" />
+* |  
+| Warehouse Infrastructure | *<img width="1312" height="735" alt="page3_infrastructure" src="https://github.com/user-attachments/assets/e823ce2b-427f-43b0-b1ed-31323e3cb940" />
+* |  
+| Transport Analysis | *<img width="1313" height="737" alt="page4_transport" src="https://github.com/user-attachments/assets/429ade3e-f996-42f1-beb2-3d3af729af7e" />
+* |  
+| Market Prices | *<img width="1312" height="740" alt="page5_market_prices" src="https://github.com/user-attachments/assets/57a13d53-1373-4eff-b1af-b77501043de3" />
+* | 
+| Intervention Effectiveness | *<img width="1313" height="737" alt="page6_interventions" src="https://github.com/user-attachments/assets/533d12c2-cf07-4db6-a01c-f9c15419eb25" />
+* |
 
 ---
 
