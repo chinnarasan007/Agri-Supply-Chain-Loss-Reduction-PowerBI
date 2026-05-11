@@ -176,7 +176,7 @@ Black Pepper: Retail ₹83,601/MT vs. MSP ₹38,197 — **farmer receives only 4
 
 ## 🚀 How to Use
 
-1. **Clone or download** this repository
+1. **(https://github.com/chinnarasan007/Agri-Supply-Chain-Loss-Reduction-PowerBI) or download** this repository
 2. Open **`Dataset/Agri_Supply_Chain_Loss_Reduction.xlsx`** to explore the raw data
 3. Open **`Dashboard/Agri_Supply_Chain_Dashboard.pbix`** in **Power BI Desktop** (free download from Microsoft)
 4. The dashboard will automatically load with all 6 pages
@@ -204,8 +204,7 @@ Black Pepper: Retail ₹83,601/MT vs. MSP ₹38,197 — **farmer receives only 4
 
 ## 👤 Author
 
-**Chinnarajan M** — Power BI Developer & Data Analyst
-
+**Chinnarajan M** — Aspiring Data Scientist
 ---
 
 ## 📜 License
